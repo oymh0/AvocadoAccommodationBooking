@@ -1,12 +1,11 @@
 ================================================================================
 Work Diary of SHIQIAN YUAN(z5151190)
 ================================================================================
-
 Week 1
-This is the first week of the term. 
-We (SHIQIAN YUAN, MINGHUI OUYANG, LUXIN JIN, TIANCHI YANG) formed a team in the lab on Thursday. 
-Then we started discussion about our topic many times and decided to design an accommodation booking web 
-finally. Brainstorming is definitely important step in starting a project, then we divide the project into four parts 
-so that everyone in our team can participate in the task. In next week, we will find a way how to start our project 
+This is the first week of the term. We (SHIQIAN YUAN, MINGHUI OUYANG, LUXIN JIN, TIANCHI YANG)
+formed a team in the lab on Thursday. Then we started discussion about our topic many times and
+decided to design an accommodation booking web finally. Brainstorming is definitely important 
+step in starting a project, then we divide the project into four parts so that everyone in our 
+team can participate in the task. In next week, we will find a way how to start our project 
 depending on our brainstorming in order to finish the proposal.
 
