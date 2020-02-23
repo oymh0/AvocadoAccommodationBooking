@@ -1,0 +1,27 @@
+================================================================================
+Work Diary of Minghui OUYANG(z5130077)
+================================================================================
+Week One:
+1. What was planned for the period since the last work diary entry?
+	a. form a team
+	b. chosse the topic
+	c. learn to use jira and GitHub
+	d. read project relative materials
+	e. brain storming 
+--------------------------------------------------------------------------------
+2. What was finished?
+	This week, we created a group - Avocado in the lab. During the lab, we decided our project - the accommodation booking website and discuss who is the admins of the project,then I have been voted as the master of the team. After that, Aravind (the other student in the same lab) taught me how to use the jira and I taught my teammates. Latter, we finished our brain storming part on the jira (sprint0), and post more tasks on jira website. 
+--------------------------------------------------------------------------------
+3. What were the main technical and non-technical obstacles and how 
+they were overcome (or what was tried and did not work)?
+	a. I am kind of new in jira, and I ask the other student in the lab.
+	b. When we chose the topic, we have diifferent viewpoints of the projects. But we overcame it by analysing the pros and cons of each topic.
+	c. we all feel pressures about the future collaboration, but I believe that is normal.
+--------------------------------------------------------------------------------
+4. What was not finished, why this happened, how this affects the overall project progress and what adjustments (if any) are needed so the success of the project is not endangered?
+	May be this question might be filled in the next week.
+--------------------------------------------------------------------------------
+5. What is planned for the next period (e.g., next week)?
+	a. finished the draft of the proposal. 
+	b. discuss the modules, technic, framework that we might implement or use.
+================================================================================

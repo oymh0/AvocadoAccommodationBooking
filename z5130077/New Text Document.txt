@@ -1,0 +1,3 @@
+git remote add origin  git@github.com:oymh0/AvocadoAccommodationBooking.git
+
+git push -u origin master
