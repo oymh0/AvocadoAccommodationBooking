@@ -1,10 +1,19 @@
 ================================================================================
 Work Diary of Tianchi Yang  zID: z5218341
 ================================================================================
-
 Week 1
+
 I formed the group together with Luxin Jin, Minghui Ouyang and Shiqian Yuan. 
 According to discussion, we selected project three. So, we brainstormed and analyzed the requirements of the project. 
 First, we sorted out the main functions that the project needed to implement and discussed the data and materials to be used. Finally, we made the preliminary plan for this project.
 
 --------------------------------------------------------------------------------
+week 2
+
+This week we start the work for proposal.
+I wrote the Disable Support and Compare System part of  Epic section, 
+Also, Shiqian and I are jointly responsible for writing Project Methodology section of the proposal.
+Next, we will integrate the parts responsible for by each team member as the initial version and modify them according to the suggestions of tutor.
+
+--------------------------------------------------------------------------------
+
