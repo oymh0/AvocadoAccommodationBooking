@@ -25,3 +25,49 @@ they were overcome (or what was tried and did not work)?
 	a. finished the draft of the proposal. 
 	b. discuss the modules, technic, framework that we might implement or use.
 ================================================================================
+Week Two:
+1. What was planned for the period since the last work diary entry?
+	a. discuss what is our components in our program with teammates
+	b. allocate the role of each member
+	c. to learn how to use jira and GitHub from lecture materials
+	d. collecting and reading project relative research
+	e. distributing the tasks for completing the first version of the proposal.
+--------------------------------------------------------------------------------
+2. What was finished?
+	This week, we met new member Dean and we introduced our current situation to him. Then we decided the four core components of the project 3 and the rest five components as our target deliverables. After discussion, I listed our minds on my notes and post them on jira. At the end of the meeting, I let them pick the most interested part of the proposal as their task on this week. Moreover, we decided to hand in our first version proposal before the week3 lab.
+--------------------------------------------------------------------------------
+3. What were the main technical and non-technical obstacles and how 
+they were overcome (or what was tried and did not work)?
+	a. I am too busy to balance my courses. I adjusted the timetable of my part-time work.
+	b. We all have a little bit concern about the language boundary because four of us are Chinese. But it is nice to hear that Dean can speak some Mandarine. So we deemed that we can practice Chinese and English at the same time. 
+	c. As for me, one of the technical obstacles must be using the newest programming framework. But this course is a chance to learn new stuff.
+--------------------------------------------------------------------------------
+4. What was not finished, why this happened, how this affects the overall project progress and what adjustments (if any) are needed so the success of the project is not endangered?
+	a. My draft proposal could not be finished, because I have to completed the assignment for the other course. I will finished it on next Monday.
+	b. To discuss the modules, technic, framework that we might implement or use. But Dean would be more professional than us to give the advice about it, which could be his task.
+--------------------------------------------------------------------------------
+5. What is planned for the next period (e.g., next week)?
+	a. I will finished my task for the first version of the proposal before the week3 lab. 
+	b. I would combining all parts of our proposal and ask mentor to give feedback for our first version proposal. 
+	c. To discuss the modules, technic, framework that we might implement or use. And I could begin to do some warm up.
+================================================================================
+Week Three:
+1. What was planned for the period since the last work diary entry?
+	a. 
+	b. 
+	c. 
+	d. 
+	e. 
+--------------------------------------------------------------------------------
+2. What was finished?
+	This week, 
+--------------------------------------------------------------------------------
+3. What were the main technical and non-technical obstacles and how 
+they were overcome (or what was tried and did not work)?
+	a.
+--------------------------------------------------------------------------------
+4. What was not finished, why this happened, how this affects the overall project progress and what adjustments (if any) are needed so the success of the project is not endangered?
+	a.
+--------------------------------------------------------------------------------
+5. What is planned for the next period (e.g., next week)?
+	a.
