@@ -9,3 +9,8 @@ step in starting a project, then we divide the project into four parts so that e
 team can participate in the task. In next week, we will find a way how to start our project 
 depending on our brainstorming in order to finish the proposal.
 
+week 2
+This week we have made a clear plan of how to complete our proposal which contains several parts. 
+We divided the proposal to 5 parts which means everyone in our group should hold their responsibility
+to do something. About the most important part, Epics, we divided it into 9 module. I write the 
+payment support module and the communication service module for properties providers and seekers. 
